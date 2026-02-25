@@ -1,0 +1,14 @@
+{
+    "Extensiones": {
+        ".pdf": "PDF",
+        ".docx": "Docs",
+        ".rar": "Compressed",
+        ".mp3": "Audio",
+        ".mp4": "Video",
+        ".png": "Images",
+        ".pptx": "Presentations",
+        ".txt": "Text",
+        ".exe": "Apps"
+    },
+    "Carpeta_Destino": ""
+}
