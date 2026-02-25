@@ -23,7 +23,9 @@ Beelc's Files Sorter es un programa de automatización de archivos que resuelve 
 
 ## 📦 Instalación
 
-Descarga el `.exe` desde la sección de [Releases](https://github.com/Beelzegor/beelc-files-sorter/releases) y ejecútalo directamente. No necesitas tener Python instalado.
+Descarga el `.rar` desde la sección de [Releases](https://github.com/Beelzegor/beelc-files-sorter/releases) y extrae los archivos.
+Tendrás dos archivos, un .exe y un .json, estos dos archivos son obligatorios para el correcto funcionamiento del programa.
+No necesitas tener Python instalado.
 
 ---
 
